@@ -1,6 +1,6 @@
 function Employee(name, age, baseSalary){
     this.name = name;
-    this.age = age;
+    this.age = age; 
     this.baseSalary = baseSalary;
 
     let monthlyBonus = 1500;
